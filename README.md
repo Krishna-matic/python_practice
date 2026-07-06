@@ -9,12 +9,12 @@ This repository contains Python practice questions, solutions, notes, and mini-p
 - Build a strong foundation for Machine Learning
 
 ## Progress
-- [ ] Python Basics
-- [ ] Data Structures
-- [ ] Functions
-- [ ] OOP
+- [*] Python Basics
+- [*] Data Structures
+- [*] Functions
+- [*] OOP
 - [ ] File Handling
-- [ ] NumPy
-- [ ] Pandas
+- [*] NumPy
+- [*] Pandas
 - [ ] Matplotlib
 - [ ] Machine Learning
